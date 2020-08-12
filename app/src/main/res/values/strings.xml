@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListWithCostomElements</string>
+    <string name="del_button">del</string>
+</resources>
